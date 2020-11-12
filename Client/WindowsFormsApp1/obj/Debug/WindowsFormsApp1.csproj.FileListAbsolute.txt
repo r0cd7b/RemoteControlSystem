@@ -1,0 +1,38 @@
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sanggyun\Desktop\Client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sanggyun\Desktop\Client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sanggyun\Desktop\Client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sanggyun\Desktop\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sanggyun\Desktop\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sanggyun\Desktop\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sanggyun\Desktop\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sanggyun\Desktop\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sanggyun\Desktop\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Com\Desktop\socket\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Com\Desktop\socket (2)\Client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Com\Desktop\socket (2)\Client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Com\Desktop\socket (2)\Client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Com\Desktop\socket (2)\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Com\Desktop\socket (2)\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Com\Desktop\socket (2)\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Com\Desktop\socket (2)\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Com\Desktop\socket (2)\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Com\Desktop\socket (2)\Client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
